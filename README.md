@@ -1,2 +1,8 @@
-# wordpress-module
-An extra module about Wordpress for CYF graduates
+# Khaled Notes
+
+## Lesson 1
+
+> to modify how many blog post you want to show :)
+setting -> Reaing ->
+> to disable comments
+setting -> discussions ->
